@@ -10,3 +10,9 @@
 
 ## [0.0.4] - 27-may-2020.
 * Code refactor.
+
+## [0.0.5] - 27-may-2020.
+* Code refactor.
+
+## [0.0.6] - 27-may-2020.
+* Code refactor.
