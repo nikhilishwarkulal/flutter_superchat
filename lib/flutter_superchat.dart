@@ -1,2 +1,1 @@
 library flutter_superchat;
-
