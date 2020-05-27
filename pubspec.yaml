@@ -1,6 +1,6 @@
 name: flutter_superchat
 description: Chating Ui Template - You can build a buitiful chat application with few lines of code. Easy to customise and easy to understand the code.
-version: 0.0.6
+version: 1.0.0
 homepage: https://github.com/nikhilishwarkulal/flutter_superchat
 
 environment:

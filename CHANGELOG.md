@@ -16,3 +16,6 @@
 
 ## [0.0.6] - 27-may-2020.
 * Code refactor.
+
+## [1.0.0] - 27-may-2020.
+* Stable Version Released.
