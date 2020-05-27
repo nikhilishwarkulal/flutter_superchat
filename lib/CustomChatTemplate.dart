@@ -16,7 +16,7 @@ class CustomChatTemplate extends StatelessWidget {
   final ScrollController scrollController;
   final void Function(int index) onTap;
   final void Function(int index) onLongTap;
-  ScrollController  _myScrollController = ScrollController();
+  final ScrollController  _myScrollController = ScrollController();
   CustomChatTemplate(this.itemCount,{this.itemBuilder,this.scrollController,this.onTap,this.onLongTap});
 
   @override
