@@ -1,11 +1,11 @@
 # flutter_superchat
 Flutter Chatting Ui Template.
 
-[![](http://luckyapp.in/processserverluckypic/super.jpg)](http://luckyapp.in/processserverluckypic/super.jpg)
+![](http://luckyapp.in/processserverluckypic/super.jpg)
 
 
 
-###Chat Template Integration.
+### Chat Template Integration.
 
 ------------
 
@@ -30,11 +30,10 @@ CustomChatTemplate(2,itemBuilder: (context,index){
 
 ```
 
-
 ### Types Of Message You can Send .
 
 ------------
-###Constructores CustomChatTemplate
+### Constructores CustomChatTemplate
 ```dart
 (this.itemCount
 				   {this.itemBuilder,
