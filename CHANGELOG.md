@@ -7,3 +7,6 @@
 
 ## [0.0.3] - 27-may-2020.
 * Updated readme.md File.
+
+## [0.0.4] - 27-may-2020.
+* Code refactor.
