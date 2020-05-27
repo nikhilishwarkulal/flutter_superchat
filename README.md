@@ -35,11 +35,13 @@ CustomChatTemplate(2,itemBuilder: (context,index){
 ------------
 ### Constructores CustomChatTemplate
 ```dart
-(this.itemCount
-				   {this.itemBuilder,
-					this.scrollController,
-					this.onTap,
-					this.onLongTap});
+(
+	this.itemCount
+	{this.itemBuilder,
+	this.scrollController,
+	this.onTap,
+	this.onLongTap
+});
 ```
 
 

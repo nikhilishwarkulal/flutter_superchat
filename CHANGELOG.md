@@ -19,3 +19,7 @@
 
 ## [1.0.0] - 27-may-2020.
 * Stable Version Released.
+
+
+## [1.0.1] - 27-may-2020.
+* Minor readme changed.
