@@ -1,3 +1,9 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 27-may-2020.
 
-* TODO: Describe initial release.
+* Released this package.
+
+## [0.0.2] - 27-may-2020.
+* Minor reformating of code.
+
+## [0.0.3] - 27-may-2020.
+* Updated readme.md File.
