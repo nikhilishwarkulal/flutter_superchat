@@ -1,7 +1,7 @@
 # flutter_superchat
 Flutter Chatting Ui Template.
 
-![](http://luckyapp.in/processserverluckypic/super.jpg)
+[![](https://media.giphy.com/media/W6iEaGG5g9wbRA6KHU/giphy.gif)](https://media.giphy.com/media/W6iEaGG5g9wbRA6KHU/giphy.gif)
 
 
 
